@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <h1>Welcome to Work Triger</h1>
+    <p>Your productivity companion</p>
   </main>
 </template>
